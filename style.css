@@ -1,0 +1,15 @@
+h1 {
+    color: #fd745f;
+  }
+  
+  h2 {
+    color: #ff8567;
+  }
+  h3 {
+    color: #ff9770;
+  }
+  img {
+    display: block;
+    margin-left: 100px;
+  /*   margin-right: auto; */
+  }
